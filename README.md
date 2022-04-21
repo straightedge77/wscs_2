@@ -30,6 +30,6 @@ export FLASK_APP=app
 flask run (use 127.0.0.1:5000)
 ```
 ## Reference
-https://flask-jwt-extended.readthedocs.io/en/stable/
-https://www.adamsmith.haus/python/answers/how-to-return-http-status-code-201-using-flask-in-python
-https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login
+https://flask-jwt-extended.readthedocs.io/en/stable/  
+https://www.adamsmith.haus/python/answers/how-to-return-http-status-code-201-using-flask-in-python  
+https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login  
